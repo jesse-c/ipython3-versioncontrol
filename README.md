@@ -16,4 +16,12 @@ An alternative approach to [ipython3-versioncontrol](https://github.com/balabit/
 
 ## Usage
 
+```
+python notebooker_cleaner.py
 
+Usage:
+  notebook_cleaner.py -o <notebook>
+  notebook_cleaner.py -f <output> <notebook>
+  notebook_cleaner.py -v | --version
+  notebook_cleaner.py -h | --help
+```

@@ -1,10 +1,10 @@
 """Clean IPython3 (Jupter, nbformat 4) notebooks.
 
 Usage:
-  notebook_cleaner -o <notebook>
-  notebook_cleaner -f <output> <notebook>
-  notebook_cleaner -v | --version
-  notebook_cleaner -h | --help
+  notebook_cleaner.py -o <notebook>
+  notebook_cleaner.py -f <output> <notebook>
+  notebook_cleaner.py -v | --version
+  notebook_cleaner.py -h | --help
 
 Options:
   -o            Overwrite file in place.
@@ -14,7 +14,6 @@ Options:
 """
 
 from docopt import docopt
-import sys
 import os.path
 import json
 from collections import OrderedDict
