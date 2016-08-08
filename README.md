@@ -6,7 +6,7 @@ An alternative approach to [ipython3-versioncontrol](https://github.com/balabit/
 
 *Cell type: code*
 
-- Execution count: 0
+- Execution count: null
 - Outputs: []
 - Metadata: {}
 
