@@ -1,4 +1,4 @@
-"""Clean IPython3 (Jupter, nbformat 4) notebooks.
+"""Clean IPython3 (Jupyter, nbformat 4) notebooks.
 
 Usage:
   notebook_cleaner.py -o <notebook>
