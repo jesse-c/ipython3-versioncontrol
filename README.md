@@ -22,3 +22,9 @@ python notebook_cleaner.py -f <output> <notebook>
 python notebook_cleaner.py -v | --version
 python notebook_cleaner.py -h | --help
 ```
+
+__Flags__
+
+`-o`: Make changes in place
+
+`-f`: Write the changes to a new a file
