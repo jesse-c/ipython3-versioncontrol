@@ -1,6 +1,6 @@
 # Make IPython 3 (Jupyter, nbformat 4) easy to keep under version control
 
-An alternative approach to [ipython3-versioncontrol](https://github.com/balabit/ipython3-versioncontrol). Instead of creating new files, simply overwrite some trivial (in our opinion) values from the notebook files.
+An alternative approach to [ipython3-versioncontrol](https://github.com/balabit/ipython3-versioncontrol). Instead of creating new files in a different format, simply overwrite some trivial (in our opinion e.g. execution count) values from the notebook files.
 
 **Key-values that are reset**
 
